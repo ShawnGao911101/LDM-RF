@@ -1,6 +1,6 @@
 # LDM-RF
 A pipeline for generating pangenome sequence tags
-Authors: Shang Gao, Jiri Stiller
+Authors: Shang Gao, Jiri Stiller @ A&F, CSIRO, St Lucia, QLD, Australia
 
 The pileline consists of four perl scirpts:
 
